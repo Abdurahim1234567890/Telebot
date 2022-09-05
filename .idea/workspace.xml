@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a0374ad-e436-496c-87c3-9e4370af4872" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../telegrambot/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../telegrambot/config.py" afterDir="false" />
-    </list>
+    <list default="true" id="6a0374ad-e436-496c-87c3-9e4370af4872" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +96,7 @@
       <workItem from="1662374862963" duration="255000" />
       <workItem from="1662375178416" duration="7457000" />
       <workItem from="1662382716989" duration="819000" />
-      <workItem from="1662383562891" duration="301000" />
+      <workItem from="1662383562891" duration="605000" />
     </task>
     <servers />
   </component>
