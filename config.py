@@ -8,4 +8,4 @@ TOKEN = config('TOKEN')
 bot = Bot(TOKEN)
 dp = Dispatcher(bot=bot, storage=storage)
 ADMIN = [661518487]
-URL = 'https://newsuperbot.herokuapp.com/'
+URL = 'https://mybot05082022.herokuapp.com/'
