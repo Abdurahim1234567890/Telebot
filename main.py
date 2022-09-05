@@ -39,7 +39,7 @@ if __name__ == "__main__":
         on_shutdown=on_shutdown,
         skip_updates=True,
         host='0.0.0.0',
-        port=config("PORT", cast=int)
+        port=config("PORT", default=5000)
     )
 
 #2
