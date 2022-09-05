@@ -1,0 +1,8 @@
+# Default ignored files
+/../../telegrambot./.idea/shelf/
+/../../telegrambot./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../telegrambot./.idea/httpRequests/
+# Datasource local storage ignored files
+/../../telegrambot./.idea/dataSources/
+/../../telegrambot./.idea/dataSources.local.xml
